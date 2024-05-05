@@ -90,10 +90,10 @@ return 0;
 
 
 ## OUTPUT
-##1. Output of C program that illustrates files copying:
+### 1. Output of C program that illustrates files copying:
 ![image](https://github.com/23002248/Linux-File-IO-Systems-locking/assets/151701774/02595ec3-7564-4ae2-8aa3-e4ec6b1497ab)
 
-##2.To Write a C program that illustrates files locking:
+## 2.To Write a C program that illustrates files locking:
 ![image](https://github.com/23002248/Linux-File-IO-Systems-locking/assets/151701774/03daed80-1e6a-4416-ba5b-919382079356)
 
 
